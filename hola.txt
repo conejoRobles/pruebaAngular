@@ -4,5 +4,9 @@ Que es de tu familia?
 -todos bien
 sacaras tu 10%?
 -si, ni que fuera tonto
+<<<<<<< HEAD
 estas bien?
 wena shorizo
+=======
+hola perro
+>>>>>>> 5dfe6a4002107937c538c9b31b9ac5d224a9970e
